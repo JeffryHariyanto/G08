@@ -1,0 +1,22 @@
+@media(max-width: 1000px){
+	.jumbotron{
+		width: 50%;
+	}
+	.section{
+		width: 50%
+	}
+}
+@media(max-width: 670px){
+	.jumbotron{
+		width:100%;
+	}
+	.section{
+		width: 100px;
+	}
+	.menu{
+		display: none;
+	}
+	.menu-icon{
+		display: block;
+	}
+}
