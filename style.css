@@ -26,7 +26,7 @@ li {
 
 .nav-wrapper{
 	max-width: 100%;
-  	background-image: url('img/nav.png');
+  	background-image: url('nav.png');
   	background-size: cover;
   	position: fixed;
   	width: 100%;
@@ -81,7 +81,7 @@ li {
 }
 
 .jumbotron {
-	background-image: url('img/bg.png');
+	background-image: url('bg.png');
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: 0 -50px;
@@ -128,7 +128,7 @@ button:hover {
 }
 
 .hero-img{
-	background-image: url('img/img1.jpg');
+	background-image: url('img1.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -149,7 +149,7 @@ button:hover {
 	right: 300px;
 }
 .hero-img2{
-	background-image: url('img/img2.jpg');
+	background-image: url('img2.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -186,7 +186,7 @@ button:hover {
 }
 
 .hero-img3{
-	background-image: url('img/img3.jpg');
+	background-image: url('img3.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -232,7 +232,7 @@ button:hover {
 	color: mediumvioletred;
 }
 .hero-img4{
-	background-image: url('img/img4.jpg');
+	background-image: url('img4.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -265,7 +265,7 @@ button:hover {
 	color: magenta;
 }
 .hero-img5{
-	background-image: url('img/img5.jpg');
+	background-image: url('img5.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -367,7 +367,7 @@ button:hover {
 }
 
 .hero-img6{
-	background-image: url('img/img6.jpg');
+	background-image: url('img6.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -401,7 +401,7 @@ button:hover {
 	color: cadetblue;
 }
 .hero-img7{
-	background-image: url('img/img7.jpg');
+	background-image: url('img7.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -439,7 +439,7 @@ button:hover {
 }
 
 .hero-img8{
-	background-image: url('img/img8.jpg');
+	background-image: url('img8.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -473,7 +473,7 @@ button:hover {
 	color: salmon;
 }
 .hero-img9{
-	background-image: url('img/img9.jpg');
+	background-image: url('img9.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -513,7 +513,7 @@ button:hover {
 }
 
 .hero-img10{
-	background-image: url('img/img10.jpg');
+	background-image: url('img10.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -557,7 +557,7 @@ button:hover {
 
 
 .hero-img11{
-	background-image: url('img/img11.jpg');
+	background-image: url('img11.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -612,7 +612,7 @@ button:hover {
 	display: inline;
 }
 .hero-img12{
-	background-image: url('img/img12.jpg');
+	background-image: url('img12.jpg');
 	height: 300px;
 	margin-top: -20px;
 	width: 100%;
@@ -623,7 +623,7 @@ button:hover {
   	
 }
 .hero-img13{
-	background-image: url('img/img13.jpg');
+	background-image: url('img13.jpg');
 	height: 609px;
 	margin-top: -20px;
 	width: 100%;
@@ -659,7 +659,7 @@ button:hover {
 	display: inline;
 }
 .hero-img14{
-	background-image: url('img/img14.jpg');
+	background-image: url('img14.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
@@ -743,7 +743,7 @@ button:hover {
 }
 
 .hero-img15{
-	background-image: url('img/img15.jpg');
+	background-image: url('img15.jpg');
 	height: 1202px;
 	margin-top: -20px;
 	width: 100%;
